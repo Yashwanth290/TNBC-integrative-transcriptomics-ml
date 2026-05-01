@@ -21,7 +21,6 @@ This repository presents an integrative transcriptomic and machine learning-base
 
    * Data normalization
    * Batch effect correction
-   * Quality control
 
 3. Differential Expression Analysis
 
